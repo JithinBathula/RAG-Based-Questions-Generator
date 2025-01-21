@@ -5,26 +5,6 @@ This repository contains a project that demonstrates how to build and deploy a R
 Below is a detailed overview of how this project works, how to set it up, and how to use its different components.
 
 ---
-
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Project Structure](#project-structure)
-3. [Features](#features)
-4. [Installation & Setup](#installation--setup)
-   - [Prerequisites](#prerequisites)
-   - [Environment Variables](#environment-variables)
-   - [Installing Dependencies](#installing-dependencies)
-5. [Indexing Your PDFs](#indexing-your-pdfs)
-6. [Running the Streamlit App](#running-the-streamlit-app)
-7. [How the Retrieval Chain Works](#how-the-retrieval-chain-works)
-8. [Customization & Extension](#customization--extension)
-9. [Troubleshooting](#troubleshooting)
-10. [Contributing](#contributing)
-11. [License](#license)
-
----
-
 ## Overview
 
 The main objective of this project is to create a set of SAT-level math questions given:
